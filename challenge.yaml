@@ -1,0 +1,7 @@
+slug: paste-bin-trail
+title: Paste Bin Trail
+category: osint
+difficulty: easy
+points: 150
+codec: xorb64
+repo_url: https://github.com/sparflag/paste-bin-trail
